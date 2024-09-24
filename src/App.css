@@ -10,15 +10,17 @@
 }
 
 h1 {
+  color: #ece9e9;
   font-size: 50px;
 }
 
 h2{
+  color: #ece9e9;
   font-size: 40px;
 }
 
 #button {
-  color: #ffffff;
+  color: #ece9e9;
   font-size: xx-large;
   border-radius: 8px;
   border: 1px solid transparent;
