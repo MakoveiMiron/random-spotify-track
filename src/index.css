@@ -38,3 +38,13 @@ body {
     background-color: #f9f9f9;
   }
 }
+
+@media (max-width: 768px) {
+  body {
+    background-image: url('/src/assets/spotify-background-vertical.png'); /* Use a vertical version if needed */
+    background-size: cover; /* Ensures the background still covers the entire screen */
+    background-position: center center; /* Center the background image */
+    background-attachment: fixed; /* Keeps the background fixed in place */
+  }
+
+}
