@@ -18,6 +18,7 @@ h2{
 }
 
 #button {
+  color: #ffffff;
   font-size: xx-large;
   border-radius: 8px;
   border: 1px solid transparent;
@@ -34,10 +35,6 @@ button:hover {
 
 .card {
   padding: 2em;
-}
-
-.read-the-docs {
-  color: #888;
 }
 
 @media (max-width: 768px) {
