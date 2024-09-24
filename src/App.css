@@ -47,15 +47,18 @@ button:hover {
 
   /* Heading font size adjustments */
   h1 {
+    color: #ece9e9;
     font-size: 36px; 
   }
 
   h2 {
+    color: #ece9e9;
     font-size: 28px;
   }
 
   /* Button size and padding adjustments */
   #button {
+    color: #ece9e9;
     font-size: large; 
     padding: 0.5em 1em;
   }
