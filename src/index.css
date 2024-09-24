@@ -14,6 +14,10 @@
 }
 
 body {
+  background-image: url('/src/assets/spotify-background.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
   margin: 0;
   display: flex;
   place-items: center;
@@ -35,10 +39,7 @@ button {
 button:hover {
   border-color: #1DB954;
 }
-button:focus,
-button:focus-visible {
-  outline: 4px auto -webkit-focus-ring-color;
-}
+
 
 @media (prefers-color-scheme: light) {
   :root {
